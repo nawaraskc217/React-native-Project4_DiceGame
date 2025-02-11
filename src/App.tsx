@@ -1,12 +1,15 @@
 import { SafeAreaView, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React from 'react'
-import ColorChanger from '../components/ColorChanger'
+
+import DiceGame from '../components/DiceGame'
 
 
 export default function App() {
   return (
 
-<ColorChanger/>
+// {/* <ColorChanger/> */}
+
+<DiceGame/>
 
 
    
